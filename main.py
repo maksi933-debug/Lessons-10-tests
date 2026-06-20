@@ -1,4 +1,6 @@
-def summ(a,b)
-a = 5
-b = 5
-return a*b
+def suma_(a, b):
+    return a * b
+
+
+result = suma_(10, 15)
+print(result)
